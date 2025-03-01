@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Scroll Stop App"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="This app will block scroll events in other applications and exit after 3 scroll attempts."
+        android:textSize="16sp"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/overlay_permission_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grant Overlay Permission"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/accessibility_permission_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Grant Accessibility Permission"
+        android:layout_marginBottom="16dp" />
+
+    <Button
+        android:id="@+id/start_service_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Scroll Blocker"
+        android:layout_marginBottom="16dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Instructions:\n1. Grant all permissions\n2. Start the service\n3. Switch to any app\n4. The app will block scrolling and exit after 3 attempts"
+        android:textSize="16sp"
+        android:layout_marginTop="32dp" />
+
+</LinearLayout>

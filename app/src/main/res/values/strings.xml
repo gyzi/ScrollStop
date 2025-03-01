@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ScrollStop by Gaz</string>
+    <string name="accessibility_service_description">This service detects and blocks scroll events in other applications</string>
+    <string name="overlay_message">Scrolling is blocked!</string>
+    <string name="exit_message">App will close after 3 more scroll attempts</string>
+</resources>
