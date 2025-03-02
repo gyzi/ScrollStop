@@ -2,7 +2,7 @@
 
 A simple Android app that use accessibility service and watchout for users "myself" to control their endless scrolling habits on popular social media apps.
 
-![ScrollStop Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![ScrollStop Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.jpg)
 
 ## Features
 
@@ -35,6 +35,8 @@ A simple Android app that use accessibility service and watchout for users "myse
 5. Counter resets after a period of no scrolling
 
 ## For Developers
+
+![Development environment](app/src/main/res/mipmap-xxxhdpi/android-studio-appview.png)
 
 ### Prerequisites
 - Android Studio Arctic Fox or newer
