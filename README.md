@@ -2,7 +2,7 @@
 
 A simple Android app that use accessibility service and watchout for users "myself" to control their endless scrolling habits on popular social media apps.
 
-![ScrollStop Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
+![ScrollStop Logo](app/src/main/res/mipmap-xxxhdpi/dev_environment.png)
 
 ## Features
 
