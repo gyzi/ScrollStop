@@ -2,7 +2,7 @@
 
 A simple Android app that use accessibility service and watchout for users "myself" to control their endless scrolling habits on popular social media apps.
 
-![ScrollStop Logo](app/src/main/res/mipmap-xxxhdpi/dev_environment.png)
+![ScrollStop Logo](app/src/main/res/mipmap-xxxhdpi/ic_launcher.png)
 
 ## Features
 
@@ -15,7 +15,7 @@ A simple Android app that use accessibility service and watchout for users "myse
 ## Installation
 
 ### Manual Installation
-1. Download the latest APK from [Releases](https://github.com/gyzi/scrollstop/releases)
+1. Download the latest APK from [Releases](https://github.com/gyzi/scrollstop/releases/latest)
 2. Enable "Install from Unknown Sources" in your Android settings
 3. Open the APK file to install
 
@@ -36,7 +36,7 @@ A simple Android app that use accessibility service and watchout for users "myse
 
 ## For Developers
 
-![Development environment](app/src/main/res/mipmap-xxxhdpi/android-studio-appview.png)
+![Development environment](app/src/main/res/mipmap-xxxhdpi/dev_environment.png)
 
 ### Prerequisites
 - Android Studio Arctic Fox or newer
